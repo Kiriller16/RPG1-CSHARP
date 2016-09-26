@@ -1,0 +1,6 @@
+C:\Users\Кирилл\Documents\SharpDevelop Projects\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\SharpDevelop Projects\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe.config
+C:\Users\Кирилл\Documents\SharpDevelop Projects\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe
+C:\Users\Кирилл\Documents\SharpDevelop Projects\FirstConsole\FirstConsole\bin\Debug\FirstConsole.pdb
+C:\Users\Кирилл\Documents\SharpDevelop Projects\FirstConsole\FirstConsole\obj\Debug\FirstConsole.exe
+C:\Users\Кирилл\Documents\SharpDevelop Projects\FirstConsole\FirstConsole\obj\Debug\FirstConsole.pdb
